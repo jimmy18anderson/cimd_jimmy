@@ -2,10 +2,7 @@
   "client_id": "https://jimmy18anderson.github.io/cimd_jimmy/codex-cimd.json",
   "client_name": "OpenAI Codex CLI",
   "redirect_uris": [
-    "http://127.0.0.1/callback/-TjYJ8XYzaSK",
-    "http://127.0.0.1/callback",
-    "http://localhost/callback/-TjYJ8XYzaSK",
-    "http://localhost/callback"
+    "http://127.0.0.1/callback/-TjYJ8XYzaSK"
   ],
   "grant_types": ["authorization_code"],
   "response_types": ["code"],
